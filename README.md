@@ -33,3 +33,10 @@ Backend Development: API creation, data processing
 Frontend Development: UI for data display
 UI/UX: Styling and responsiveness
 Documentation: README and project report
+
+Team Members : 
+Diya Nair
+Gourisha Gulghane
+Gunjali Khobragade
+Deoyani Thengane
+Anustha Ambhorkar
