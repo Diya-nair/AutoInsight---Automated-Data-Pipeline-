@@ -15,28 +15,28 @@ Key Features
 
 
 Tech Stack
-Programming Language: Python
-Libraries: Pandas
-Backend Framework: FastAPI
-Frontend: HTML, CSS, JavaScript
+* Programming Language: Python
+* Libraries: Pandas
+* Backend Framework: FastAPI
+* Frontend: HTML, CSS, JavaScript
 
 Project Workflow
-Load raw data from CSV
-Clean and preprocess using Pandas
-Serve processed data through APIs
-Fetch API data in frontend
-Display data using tables and charts
+* Load raw data from CSV
+* Clean and preprocess using Pandas
+* Serve processed data through APIs
+* Fetch API data in frontend
+* Display data using tables and charts
 
 
 Team Contributions
-Backend Development: API creation, data processing
-Frontend Development: UI for data display
-UI/UX: Styling and responsiveness
-Documentation: README and project report
+* Backend Development: API creation, data processing
+* Frontend Development: UI for data display
+* UI/UX: Styling and responsiveness
+* Documentation: README and project report
 
 Team Members : 
-Diya Nair
-Gourisha Gulghane
-Gunjali Khobragade
-Deoyani Thengane
-Anustha Ambhorkar
+* Diya Nair
+* Gourisha Gulghane
+* Gunjali Khobragade
+* Deoyani Thengane
+* Anustha Ambhorkar
